@@ -1,0 +1,28 @@
+name: Juan Manuel Sobral
+favicon: null
+layout_spectrum: 0.7680631165858358
+typography_spectrum: 0.6800234951078892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.27796201943419874
+  lightness: 0.2449101828970015
+  saturation: 0.2003396770451218
+  rhythmicContrast: 0.7466540532186627
+purpose: []
