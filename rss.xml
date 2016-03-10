@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Juan Manuel Sobral]]></title>
+        <description><![CDATA[Juan Manuel Sobral]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 04:21:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Donación Impresora 3D]]></title>
+            <description><![CDATA[<article><h1>Donación Impresora 3D</h1><p>Donación Impresora 3D Puebla, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e2654d3a02618b2e020f60fe39082675f2f1795.jpg"></article>]]></description>
+            <link>undefineddonacion-impresora-3d/index.html</link>
+            <guid isPermaLink="false">752bcf91-411a-4e7c-8fc9-3e76e01ec301</guid>
+            <pubDate>Thu, 10 Mar 2016 04:21:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
